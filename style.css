@@ -1,0 +1,60 @@
+.layout {
+  margin-left: 25%;
+  margin-right: 100px;
+  margin-top: 100px;
+  align-content: center;
+  width: 50%;
+}
+
+.heading {
+  font-size: larger;
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
+}
+
+.btn {
+  text-align: center;
+  margin-left: 44%;
+  width: 12%;
+  margin-bottom: 2%;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+.lbl {
+  width: 35%;
+  margin-left: 0%;
+  margin-right: 2%;
+  display: inline-block;
+  text-align: end;
+  margin-bottom: 2%;
+}
+
+.inpt {
+  text-align: center;
+  display: inline;
+}
+
+.navigate {
+  width: 24.5%;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+.nav-btn {
+  width: 100%;
+  margin: 0%;
+  height: 50px;
+}
+nav {
+  margin: 0;
+  padding: 0%;
+}
+
+.para {
+  font-size: medium;
+  text-align: center;
+  margin-left: 25%;
+  width: 50%;
+}
